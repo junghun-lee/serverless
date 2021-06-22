@@ -4,4 +4,4 @@ title = "AWS Lambda - Serverless"
 theme = "ananke"
 
 [params.lambdaComments]
-endpoint = "http://student1010-blog-stack-student00hugositebucket-3olhf4xqa5rq.s3-website.us-east-2.amazonaws.com"
+endpoint = "https://4gnpyzgzj9.execute-api.us-east-2.amazonaws.com/Prod/comments/"
